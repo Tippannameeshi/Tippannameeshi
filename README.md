@@ -32,7 +32,7 @@ Passionate Developer |  Problem Solver |  Tech Enthusiast
 
 ###  Tools & Technologies
 
-* Git, GitHub, Linux (Ubuntu), ROS2
+* Git, GitHub,
 
 ---
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)

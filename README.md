@@ -101,7 +101,7 @@ Passionate Developer |  Problem Solver |  Tech Enthusiast
 
 ## 📫 Connect with Me
 
-* LinkedIn: www.linkedin.com/in/tippanna-meeshi-1118992b2
+* LinkedIn: www.linkedin.com/in/tippannameeshi
 * Email: tippannameeshi2004@gmail.com
 
 ---

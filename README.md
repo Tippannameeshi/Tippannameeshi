@@ -8,7 +8,7 @@ Passionate Developer |  Problem Solver |  Tech Enthusiast
 ##  About Me
 
 *  Computer Science Student
-*  Interested in **System Design, DSA & Backend Development**
+*  Exploring **DSA & Backend Development**
 *  Currently working on **AI-Based Proactive Memory Optimization in Cloud Virtual Machines**
 *  Building projects using **React, Node.js, MongoDB,MYSQL,HTML CSS,ML**
 *  Love solving real-world problems with code

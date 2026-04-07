@@ -19,7 +19,7 @@ Passionate Developer |  Problem Solver |  Tech Enthusiast
 
 ###  Languages
 
-* C, C++, Python, JavaScript, 
+* C, C++, Python, JavaScript,Java(Basic)
 
 ###  Web Development
 
@@ -43,6 +43,7 @@ Passionate Developer |  Problem Solver |  Tech Enthusiast
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
